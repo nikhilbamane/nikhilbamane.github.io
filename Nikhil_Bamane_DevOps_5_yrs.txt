@@ -1,0 +1,55 @@
+
+NIKHIL BAMANE
+DevOps Engineer | AWS, Kubernetes, Docker, Terraform, Git & Ansible Expert | Jenkins CI/CD & Cloud Security Specialist | Agentic AI in DevOps
+
+Email: nikhilbamane06@gmail.com | Phone: +91 775 8899 605 | Location: Mumbai, India | LinkedIn | GitHub | Portfolio
+
+PROFESSIONAL SUMMARY
+Results-driven DevOps Engineer with 5 years of comprehensive experience in cloud infrastructure, automation, CI/CD pipeline development, and site reliability engineering. Proven expertise in Infrastructure as Code (IaC) using Terraform and Ansible, container orchestration with Kubernetes, and cloud migration projects on AWS, Azure and GCP. Demonstrated success in reducing deployment time by 40%, improving system reliability to 99.9% uptime, optimizing cloud costs by 15-20%, and automating manual processes by 60%. Strong focus on DevSecOps practices, monitoring and observability, and high-availability architecture for mission-critical applications handling 500K+ daily transactions. Passionate about integrating Agentic and Generative AI into DevOps workflows to enable intelligent automation and predictive operations. Demonstrated ability to accelerate Jenkins CI/CD pipelines by 30% through optimization and parallelization.
+
+CORE COMPETENCIES AND SKILLS
+Cloud Platforms & Services: AWS (EC2, S3, VPC, IAM, RDS, Lambda, EKS, CloudFormation, CloudWatch, Route 53, ElastiCache, SNS, SQS), Microsoft Azure, Google Cloud Platform (GCP), Cloud Migration, Multi-Cloud Strategy
+Container & Orchestration: Docker, Kubernetes, Helm, EKS, AKS, Containerization Strategies, Microservices Architecture, Pod Design, Service Mesh, Ingress Management, ConfigMaps & Secrets
+Infrastructure as Code: Terraform, Ansible, CloudFormation, AWS CDK, Idempotent Configuration Management, State Management, Module Design, Remote Backends, Workspace Management
+CI/CD & Automation: Jenkins, Git, GitHub, GitLab, Maven, Gradle, Pipeline as Code (Jenkinsfile, Groovy), SonarQube, Automated Workflows, Blue-Green Deployments, Canary Deployments, GitOps
+Monitoring & Observability: Prometheus, Grafana, Zabbix, ELK Stack (Elasticsearch, Logstash, Kibana), CloudWatch, AWS X-Ray, Distributed Tracing, Metrics Collection, Log Aggregation, Alerting Strategies, Dashboards
+Security & Compliance: Vulnerability Scanning, IAM Policies & Roles, DevSecOps, Fortinet NSE, CloudTrail, AWS KMS, Security Groups, NACLs, Compliance Automation, Security Hardening, OWASP, Security Scanning (Trivy, Clair)
+Networking: VPC Design & Architecture, Subnets & Route Tables, NAT Gateways, VPN Connections, Load Balancing (ELB, ALB, NLB), DNS Management (Route 53), CloudFront CDN, Peering Connections, Transit Gateway
+Databases: PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, MariaDB, SQLite, RDS Aurora, Database Clustering, Replication, Backup & Restore Strategies
+Scripting & Development: Python, Bash, Shell Scripting, Java, API Testing (Postman, Thunder), YAML, JSON, XML, REST APIs, Web Services
+Tools & Platforms: Linux (Amazon Linux 2 / 2023, Ubuntu, CentOS, RHEL), Nginx, Apache Tomcat, Redis, Apache Kafka, JIRA, Agile / Scrum Methodologies, Confluence, Slack, Microsoft Teams
+Methodologies: DevSecOps, GitOps, Infrastructure as Code (IaC), Continuous Integration/Delivery (CI/CD), Shift-Left Security, Observability, SRE Practices, Automation, Disaster Recovery, High Availability, Scalability, Agentic and Generative AI in DevOps
+
+PROFESSIONAL EXPERIENCE
+Senior DevOps Engineer | NCDEX e Markets Ltd. (NeML), Mumbai, India (https://neml.in/#/home) | March 2024 - Present
+    Lead Cloud Architect and DevOps Engineer managing 5 trading and auctions platforms including Commodity, Procurement, Emissions, Financing, supporting 500K+ daily transactions with 99.9% uptime across multi-region AWS deployments
+    Architected and implemented 2 major cloud infrastructure modernization projects (Enterprise CI/CD pipeline, GitLab migration) using Terraform IaC, reducing manual provisioning time by 60% and eliminating configuration drift
+    Designed and deployed comprehensive monitoring and observability platform using Prometheus, Grafana, Zabbix and CloudWatch, implementing SLO-based alerting that reduced Mean Time to Detection (MTTD) by 40% and Mean Time to Resolution (MTTR) to 30 minutes
+    Optimized AWS infrastructure costs by 15% through right-sizing EC2 instances, implementing auto-scaling policies, and scheduling non-production resource shutdowns, maintaining 2% budget variance with $200K+ monthly cloud spend
+    Automated security and compliance: Achieved 100% security patch compliance, implemented monthly vulnerability scanning, enforced least-privilege IAM policies, and executed seamless migration from Amazon Linux 2 to Amazon Linux 2023 with zero critical downtime
+    Led team development: Mentored 4 junior DevOps engineers, conducted 3 internal technical training sessions, authored 9 Standard Operating Procedures (SOPs), and drove innovation initiatives including Agentic and Generative AI, MCP, RAG integration and Terraform module standardization
+DevOps Engineer | Tecogis, Mumbai, India | October 2021 - March 2024
+    Engineered cloud-native solutions on AWS, Azure, and Kubernetes (EKS/AKS); built scalable Jenkins CI/CD pipelines with automated testing, code quality gates, and deployment strategies, reducing release cycles by 40% and eliminating manual deployment errors
+    Containerized applications: Dockerized 50+ microservices and orchestrated via Kubernetes, implementing auto-scaling, resource quotas, and network policies to enable zero-downtime rollouts and consistent environments across Development, Staging, and Production
+    Implemented enterprise monitoring and security: Deployed ELK stack for centralized logging and Prometheus/Grafana for metrics; enforced security best practices including IAM role-based access, VPC isolation, and regular vulnerability scanning, reducing attack surface by 60%
+    Drove cloud cost optimization: Right-sized 100+ EC2 instances, implemented spot instance strategies and auto-scaling policies, reducing monthly AWS spend by 20% while maintaining application performance and availability
+    Provisioned and managed AWS infrastructure using CloudFormation and manual processes; built and maintained EC2 instances, Auto Scaling Groups, Elastic Load Balancers (ELB/ALB), and supporting infrastructure that scaled from 1,000 to 50,000 daily users
+    Architected secure network infrastructure: Designed VPCs with custom subnets, route tables, NAT gateways, and VPN connections, creating isolated network environments that enhanced data privacy and ensured compliance in multi-tenant deployments
+DevOps Intern | Nitor Infotech, Mumbai, India | December 2020 - September 2021
+    Developed CI/CD pipelines using Jenkins and Docker, implementing automated build, test, and deployment workflows that accelerated deployment cycles by 30% and improved deployment reliability
+    Created monitoring solutions for 10+ microservices using Grafana and Prometheus, establishing alerting rules and dashboards that supported 99.9% test environment uptime
+    Assisted in AWS resource provisioning for EC2, S3, and EKS; automated backup and recovery processes using AWS Backup and custom scripts, improving Recovery Point Objective (RPO) from 24 hours to 4 hours and Recovery Time Objective (RTO) from 12 hours to 2 hours
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate | Amazon Web Services | 2026
+AWS Certified Cloud Practitioner | Amazon Web Services | 2023
+Fortinet Network Security Expert (NSE) 1 & 2 | Fortinet | 2020
+Diploma in Software Programming | MSME, Government of India, Institute For Design of Electrical Measuring Instruments (IDEMI), Mumbai | 2017
+
+EDUCATION
+Master of Business Administration - Information Technology (MBA-IT) | D. Y. Patil University (DPU) | 2025
+Bachelor of Engineering - Computer Engineering | University of Mumbai | 2020
+Diploma in Computer Engineering | Shivaji University | 2017
+
+ADDITIONAL INFORMATION
+Work Model: Open to Hybrid / Remote / On-site opportunities / Willing to Relocate
